@@ -139,7 +139,7 @@ public class AStarNode : IComparable, IEquatable<AStarNode> {
   //   return X ^ Y;
   // }
 } 
-
+ 
 public class Grid {
   byte[][] map;
   
